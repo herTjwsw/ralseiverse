@@ -1,0 +1,36 @@
+{
+    "id": "ralseiverse",
+    "name": "DELTARUNE Ch. 8: THE RALSEIVERSE",
+    "subtitle": "An entire multiverse of Ralseis. Fan-made. Not official DELTARUNE.",
+    "version": "v1.0.0",
+    "engineVer": "v0.11.0-dev",
+    "chapter": 2,
+    "map": "confluence",
+    "party": [
+        "kris",
+        "susie",
+        "ralsei"
+    ],
+    "money": 200,
+    "darkInventory": {
+        "items": [
+            "darkburger",
+            "cafeblend",
+            "warmbread",
+            "scarfpatch"
+        ],
+        "key_items": [
+            "cell_phone"
+        ]
+    },
+    "config": {
+        "kristal": {
+            "ralseiStyle": 2,
+            "susieStyle": 2,
+            "mercyMessages": false,
+            "darkCurrency": "Dark Dollars",
+            "darkCurrencyShort": "D$"
+        }
+    },
+    "dev": false
+}
